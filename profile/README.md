@@ -5,8 +5,10 @@
 LOKIS (Lokasi Seru) aims to make traveling easier. The goal is to provide personalized recommendations which are based on proximity, affordability, and various preferences, hence improving the traveling experience in the dynamic Jabodetabek area. All existing travel apps offer recommendations, but the unique aspect of this project involved applying the Traveling Salesman Problem to optimize routes based on various preferences and using Collaborative Filtering as Recommendation System. With the integration of cloud computing, machine learning, and mobile development, the team delivered an innovative solution to improve traveler’s experience in Jabodetabek.
 
 ## 📲 Preview/Screenshot
-<img src="https://github.com/Lokis-bangkit-2023/.github/blob/main/Logo/Type%202_%20Loosely%20convert%20to%20Visily%E2%80%99s%20components%20(2).png?raw=true" alt="Alt Text" width="300">
-<img src="https://github.com/Lokis-bangkit-2023/.github/blob/main/Logo/Type%202_%20Loosely%20convert%20to%20Visily%E2%80%99s%20components%20(1).png?raw=true" alt="Alt Text" width="300">
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Lokis-bangkit-2023/.github/blob/main/Logo/Type%202_%20Loosely%20convert%20to%20Visily%E2%80%99s%20components%20(2).png?raw=true" alt="Alt Text" width="270" height="470">
+    <img src="https://github.com/Lokis-bangkit-2023/.github/blob/main/Logo/Type%202_%20Loosely%20convert%20to%20Visily%E2%80%99s%20components%20(1).png?raw=true" alt="Alt Text" width="270" height="470">
+</div>
 
 ## 🖥️ Repositories
 |   Learning Paths      |                           Link                            |
@@ -23,4 +25,4 @@ LOKIS (Lokasi Seru) aims to make traveling easier. The goal is to provide person
 |  3  | Jausyaq Tsaqifuddin         | M283BSY1630 |  Machine Learning   | <a href="https://www.linkedin.com/in/jausyaq-tsaqifuddin-27274827a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 |  4  | Adam Mulya Sampurna         | C193BSY3062 |  Cloud Computing    | <a href="https://www.linkedin.com/in/adam-mulya-sampurna-a09629157/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 |  5  | Adi Agus Prayoga            | C193BSY4288 |  Cloud Computing    | <a href="https://www.linkedin.com/in/adi-agus-prayoga-6b6813189/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-|  6  | Fachry Ramadhan             | A193BSY1630 |  Mobile Development | <a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+|  6  | Fachry Ramadhan             | A193BSY1630 |  Mobile Development | <a href="https://www.linkedin.com/in/fachry-ramadhan-158935171/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |

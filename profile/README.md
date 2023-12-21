@@ -6,7 +6,7 @@ LOKIS (Lokasi Seru) aims to make traveling easier. The goal is to provide person
 
 ## 📲 Preview/Screenshot
 <img src="https://github.com/Lokis-bangkit-2023/.github/blob/main/Logo/Type%202_%20Loosely%20convert%20to%20Visily%E2%80%99s%20components%20(2).png?raw=true" alt="Alt Text" width="300">
-![alt text](https://github.com/Lokis-bangkit-2023/.github/blob/main/Logo/Type%202_%20Loosely%20convert%20to%20Visily%E2%80%99s%20components%20(2).png?raw=true)
+<img src="https://github.com/Lokis-bangkit-2023/.github/blob/main/Logo/Type%202_%20Loosely%20convert%20to%20Visily%E2%80%99s%20components%20(1).png?raw=true" alt="Alt Text" width="300">
 
 ## 🖥️ Repositories
 |   Learning Paths      |                           Link                            |

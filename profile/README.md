@@ -6,9 +6,9 @@
 ## 🖥️ Repositories
 |   Learning Paths      |                           Link                            |
 | :-------------------: | :-------------------------------------------------------: |
-| 🤖 Machine Learning   | [ML Repository]([https://github.com/Anna-Bangkit-2023/ML](https://github.com/Lokis-bangkit-2023/Machine-Learning)) |
-| ☁️ Cloud Computing    | [CC Repository]([https://github.com/Anna-Bangkit-2023/CC](https://github.com/Lokis-bangkit-2023/Cloud-Computing)) |
-| 📱 Mobile Development | [MD Repository]([https://github.com/Anna-Bangkit-2023/MD](https://github.com/Lokis-bangkit-2023/Mobile-Development)) |
+| 🤖 Machine Learning   | [ML Repository](https://github.com/Lokis-bangkit-2023/Machine-Learning)   |
+| ☁️ Cloud Computing    | [CC Repository](https://github.com/Lokis-bangkit-2023/Cloud-Computing)    |
+| 📱 Mobile Development  | [MD Repository](https://github.com/Lokis-bangkit-2023/Mobile-Development)) |
 
 ## 🙋‍ Our Teams
 | No. |            Member           | Student ID  |        Path         |        Contacts        |

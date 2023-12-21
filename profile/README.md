@@ -8,7 +8,7 @@
 | :-------------------: | :-------------------------------------------------------: |
 | 🤖 Machine Learning   | [ML Repository](https://github.com/Lokis-bangkit-2023/Machine-Learning)   |
 | ☁️ Cloud Computing    | [CC Repository](https://github.com/Lokis-bangkit-2023/Cloud-Computing)    |
-| 📱 Mobile Development  | [MD Repository](https://github.com/Lokis-bangkit-2023/Mobile-Development)) |
+| 📱 Mobile Development  | [MD Repository](https://github.com/Lokis-bangkit-2023/Mobile-Development) |
 
 ## 🙋‍ Our Teams
 | No. |            Member           | Student ID  |        Path         |        Contacts        |

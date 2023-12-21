@@ -7,7 +7,8 @@ LOKIS (Lokasi Seru) aims to make traveling easier. The goal is to provide person
 ## 📲 Preview/Screenshot
 <p align="center">
 	<img ![Lokis bangkit 2023](logo/Login Page.png)width="25%"> &nbsp; &nbsp; &nbsp;
-	<img src="logo/Home Screen.png" width="25%"> &nbsp; &nbsp; &nbsp;
+	<img src="![Home Screen](https://github.com/Lokis-bangkit-2023/.github/logo)
+" width="25%"> &nbsp; &nbsp; &nbsp;
 	<img src="logo/Recommendation.png" width="25%">
 </p>
 </p>

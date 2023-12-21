@@ -2,6 +2,7 @@
 ## CH2-PS414 [Product-Based Capstone - Bangkit 2023 Batch 2]
 
 ## 📑 Description
+LOKIS (Lokasi Seru) aims to make traveling easier. The goal is to provide personalized recommendations which are based on proximity, affordability, and various preferences, hence improving the traveling experience in the dynamic Jabodetabek area.
 
 ## 🖥️ Repositories
 |   Learning Paths      |                           Link                            |

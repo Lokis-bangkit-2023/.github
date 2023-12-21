@@ -5,12 +5,13 @@
 LOKIS (Lokasi Seru) aims to make traveling easier. The goal is to provide personalized recommendations which are based on proximity, affordability, and various preferences, hence improving the traveling experience in the dynamic Jabodetabek area. All existing travel apps offer recommendations, but the unique aspect of this project involved applying the Traveling Salesman Problem to optimize routes based on various preferences and using Collaborative Filtering as Recommendation System. With the integration of cloud computing, machine learning, and mobile development, the team delivered an innovative solution to improve traveler’s experience in Jabodetabek.
 
 ## 📲 Preview/Screenshot
+![alt text](https://github.com/Lokis-bangkit-2023/.github/blob/main/Logo/Home%20Screen.png?raw=true)
 <p align="center">
 	<img ![Lokis bangkit 2023](logo/Login Page.png)width="25%"> &nbsp; &nbsp; &nbsp;
 	![Home Screen](https://github.com/Lokis-bangkit-2023/.github/blob/main/Logo/Home%20Screen.png)
 	<img src="logo/Recommendation.png" width="25%">
 </p>
-</p>
+
 
 ## 🖥️ Repositories
 |   Learning Paths      |                           Link                            |
